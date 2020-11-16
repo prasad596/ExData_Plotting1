@@ -1,4 +1,8 @@
-## Introduction
+# READ ME
+
+This repository contains all the 8 files (4 PNGs and 4 R Scripts) to generate graphs as mentioned in the instructions below
+
+## Instructions
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
